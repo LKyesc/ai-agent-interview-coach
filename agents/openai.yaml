@@ -1,0 +1,8 @@
+interface:
+  display_name: "AI Agent 模拟面试"
+  short_description: "逐题深挖项目卡点，并用真实面试反馈和独立审查持续校准追问策略"
+  default_prompt: "Use $ai-agent-interview-coach to run a one-question-at-a-time AI Agent interview with independent answer reviews."
+
+policy:
+  allow_implicit_invocation: true
+
